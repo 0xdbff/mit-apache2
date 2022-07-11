@@ -1,4 +1,4 @@
-# SO_tp
+# $PROJECT_NAME
 
 ## License
 
